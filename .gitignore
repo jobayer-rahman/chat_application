@@ -2,6 +2,8 @@
 env/
 # venv files
 venv/
+# mysql files
+mysql_data/
 
 # sqlite3
 /chatService/db.sqlite3
